@@ -1,0 +1,23 @@
+{
+  "name": "spiky",
+  "version": "0.0.1",
+  "description": "Machine learning toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaud74130/spiky.git"
+  },
+  "keywords": [
+    "Machine",
+    "learning"
+  ],
+  "author": "Arnaud GARCIA <arnaud74130@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arnaud74130/spiky/issues"
+  },
+  "homepage": "https://github.com/arnaud74130/spiky#readme"
+}
